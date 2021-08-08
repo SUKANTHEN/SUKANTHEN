@@ -1,23 +1,35 @@
 ## Hi there !! Good to see you 👋
 
-I'm Sukanthen (a.k.a SUKAN), a Machine Learning Engineer working with  Data and AI team at iCliniq, Coimbatore. <br>
+I'm Sukanthen (a.k.a SUKAN), a Machine Learning Engineer working with  Data and AI team at :office: iCliniq, Coimbatore.<br>
 ### About Me <br>
 I am from Coimbatore, India <img src="https://image.flaticon.com/icons/svg/2465/2465327.svg" width="15">, currently living and working in  Coimbatore! 👋
 
 
 - 🔭 I’m currently working on Cool Machine Learning, Data Science and Python programming projects in Healthcare domain
-- 🌱 I’m currently learning everything required to be the best Engineer
-- 👯 I’m looking to collaborate on new Innovative and Crazy ideas
+- :earth_americas: I’m currently learning everything required to be the best Engineer
+- 👯 I’m looking to collaborate on new Innovative and Crazy ideas :money_with_wings:
 - 💬 Ask me about AI / ML / Data Science and how to Self-learn
 - ⚡ Fun fact: I wake up at sleep and start working on ideas that I dream !!
 
 
 ### Languages:
 
-<img align="left" alt="Python3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> <br>
+<img align="left" alt="Python3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" /> 
+<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" /> <br>
 
 ### Technologies:
-Machine Learning, Deep Learning, Reinforcement Learning, Data Science and Analytics, Software Engineering-Python Developer
+Machine Learning, Deep Learning, Reinforcement Learning, Data Science and Analytics, Software Engineering-Python Developer, Cloud Computing (AWS)
 
 ### Preferred Domain:
-Healthcare, Gaming, Finance
+Healthcare :pill:, Gaming :video_game:, Finance :dollar:
+
+### GitHub Stats
+
+<p align="left">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=SUKANTHEN&theme=radical&border=7B75CC&show_icons=true&count_private=true&text_color=00E7FF&border_color=7B75CC" height="165" />
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUKANTHEN&l&layout=compact&theme=radical&bg_color=141321&text_color=00E7FF&border_color=7B75CC" height="165">
+  </a>
+</p>
