@@ -20,7 +20,7 @@ I am from Coimbatore, India <img src="https://image.flaticon.com/icons/svg/2465/
 ### Technologies:
 Machine Learning, Deep Learning, Reinforcement Learning, Data Science and Analytics, Software Engineering-Python Developer, Cloud Computing (AWS)
 
-### Preferred Domain:
+### Passionate Domain:
 Healthcare :pill:, Gaming :video_game:, Finance :dollar:
 
 ### GitHub Stats
