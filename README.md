@@ -7,7 +7,7 @@ I am from Coimbatore, India <img src="https://image.flaticon.com/icons/svg/2465/
 
 - 🔭 I’m currently working on Cool Machine Learning, Data Science and Python programming projects in Healthcare domain
 - :earth_americas: I’m currently learning everything required to be the best Engineer
-- 👯 I’m looking to collaborate on new Innovative and Crazy ideas :money_with_wings:
+- 👯 I’m looking to collaborate on new, Innovative, Crazy ideas that will help me make a millionaire  :money_with_wings:
 - 💬 Ask me about AI / ML / Data Science and how to Self-learn
 - ⚡ Fun fact: I wake up at sleep and start working on ideas that I dream !!
 
