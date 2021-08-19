@@ -11,6 +11,14 @@ I am from Coimbatore, India <img src="https://image.flaticon.com/icons/svg/2465/
 - 💬 Ask me about AI / ML / Data Science and how to Self-learn
 - ⚡ Fun fact: I wake up at sleep and start working on ideas that I dream !!
 
+## ✉️ Find me on:
+
+<p align="center">
+ <a href="https://www.linkedin.com/in/sukanchamp" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+ <a href="mailto:sukanthen1999@gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+</p>
+
+<br />
 
 ### Languages:
 
