@@ -2,7 +2,7 @@
 
 I'm Sukanthen (a.k.a SUKAN), a Machine Learning Engineer working with  Data and AI team at :office: iCliniq, Coimbatore.<br>
 ### About Me <br>
-I am from Coimbatore, India <img src="https://image.flaticon.com/icons/svg/2465/2465327.svg" width="15">, currently living and working in  Coimbatore! 👋
+I am from Coimbatore, India, currently living and working in  Coimbatore! 👋
 
 
 - 🔭 I’m currently working on Cool Machine Learning, Data Science and Python programming projects in Healthcare domain
