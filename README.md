@@ -7,6 +7,7 @@ I am from Nagapattinam, India, currently living and working in  Coimbatore! 👋
 
 - 🔭 I’m currently working on Cool Machine Learning, Data Science and Python programming projects in Healthcare domain
 - :earth_americas: I’m currently learning everything required to be the best Engineer
+- On a mission to make this world a safe, secure, healthy and knowledgeful !!
 - 👯 I’m looking to collaborate on new, Innovative, Crazy ideas that will help me make millions  :money_with_wings:
 - 💬 Ask me about AI / ML / Data Science and how to Self-learn
 - ⚡ Fun fact: I wake up at sleep and start working on ideas that I dream !!
