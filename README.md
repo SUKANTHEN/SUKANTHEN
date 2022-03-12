@@ -43,7 +43,6 @@ Healthcare :pill:, Gaming :video_game:, Finance :dollar:
   </a>
 </p>
 
-
 ### GitHub Contributions
 <p align="left">
   <a href="https://git.io/streak-stats">
@@ -52,4 +51,9 @@ Healthcare :pill:, Gaming :video_game:, Finance :dollar:
 </p>
 
 <br/>
+
+[twitter]: https://twitter.com/sukanthen
+[linkedin]: https://www.linkedin.com/in/sukanchamp/
+
+
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SUKANTHEN.SUKANTHEN)
