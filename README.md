@@ -39,7 +39,7 @@ Healthcare :pill:, Gaming :video_game:, Finance :dollar:
     <img src="https://github-readme-stats.vercel.app/api?username=SUKANTHEN&theme=radical&border=7B75CC&show_icons=true&count_private=true&text_color=00E7FF&border_color=7B75CC" height="165" />
   </a>
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SUKANTHEN&layout=compact" height="165">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/ username=SUKANTHEN&l&layout=compact&theme=radical&bg_color=141321&text_color=00E7FF&border_color=7B75CC" height="165">
   </a>
 </p>
 
