@@ -1,6 +1,6 @@
 ## Hi there !! Good to see you 👋
 
-I'm Sukanthen (a.k.a SUKAN), a Machine Learning Engineer, currently not working for any organisation. <br>
+I'm Sukanthen (a.k.a SUKAN), a Machine Learning Engineer, currently working for BlitzAI, Bengaluru. <br>
 ### About Me <br>
 I am from Nagapattinam, India, currently living and working in  Coimbatore! 👋
 
